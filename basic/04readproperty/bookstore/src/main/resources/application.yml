@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Kim Dong Book Store
+server:
+  port: 9000
+
+magic:
+  key: mnw#q5412$09()
